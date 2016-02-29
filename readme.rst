@@ -8,7 +8,7 @@ This repository contains sample XML documents.
 Project Folders
 ***************
 
-/data           XML data
+/data           XML data, with inside it ...
 /1-xml     The data, modelled 5 different ways
 /2-dtd     Same data. constrained with a DTD
 /3-schema  Same data, constrained with a schema
@@ -25,12 +25,9 @@ agreement <http://codeigniter.com/userguide3/license.html>`_
 Resources
 *********
 
--  `Informational website <http://codeigniter.com/>`_
--  `Source code repo <https://github.com/bcit-ci/CodeIgniter/>`_
--  `User Guide <http://codeigniter.com/userguide3/>`_
--  `Community Forums <https://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki/>`_
--  `Community IRC <http://codeigniter.com/irc>`_
+-  `The Official XML Home <https://www.w3.org/XML/>`_
+-  `O'Reilly XML COmmunity <http://www.xml.com/>`_
+-  `W3Schools <http://www.w3schools.com/xml/>`_
 
 ***************
 Acknowledgement
