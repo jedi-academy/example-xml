@@ -9,9 +9,9 @@ Project Folders
 ***************
 
 /data           XML data
-/data/1-xml     The data, modelled 5 different ways
-/data/2-dtd     Same data. constrained with a DTD
-/data/3-schema  Same data, constrained with a schema
+/1-xml     The data, modelled 5 different ways
+/2-dtd     Same data. constrained with a DTD
+/3-schema  Same data, constrained with a schema
 
 
 *******
