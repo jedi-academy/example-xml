@@ -1,2 +1,0 @@
-# example-xml
-XML Examples
