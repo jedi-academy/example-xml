@@ -9,13 +9,10 @@ Project Folders
 ***************
 
 /data           XML data
-    /1-xml      The data, modelled 5 different ways
-    /2-dtd      Same data. constrained with a DTD
-    /3-schema   Same data, constrained with a schema
-/download       reserved
-/feedback       reserved
+/data/1-xml     The data, modelled 5 different ways
+/data/2-dtd     Same data. constrained with a DTD
+/data/3-schema  Same data, constrained with a schema
 
-Assumed: CI system folder is in ../system3
 
 *******
 License
