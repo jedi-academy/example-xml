@@ -3,11 +3,13 @@ XML Examples
 ############
 
 This repository contains sample XML documents.
+I also added some SimpleXML processing examples for the same data :)
 
 ***************
 Project Folders
 ***************
 
+/simple    Snippets of SimpleXML code to work with the same data as below
 /data           XML data, with inside it ...
 /1-xml     The data, modelled 5 different ways
 /2-dtd     Same data. constrained with a DTD
