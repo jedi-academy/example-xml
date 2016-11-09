@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order id="12345">
+        <customer>George</customer>
+        <date>20161109-1335PST</date>
+        <total>7.00</total>
+        <details>
+            <item code="burger" qty="1" price="5.00"/>
+            <item code="fries" qty="1" size="medium" price="2.00"/>
+        </details>
+    </order>
+    <order id="12346" customer="Andre" date="20161109-1335PST">
+        <item code="burger" qty="1" price="5.00"/>
+        <item code="fries" qty="1" size="medium" price="2.00"/>
+    </order>
+    <order>
+        <id>12347</id>
+        <customer>Vladimir</customer>
+        <date>20161109-1335PST</date>
+        <details>
+            <item>
+                <line>1</line>
+                <code>burger</code>
+                <quantity>1</quantity>
+                <price>5.00</price>
+            </item>
+            <item>
+                <line>2</line>
+                <code>fries</code>
+                <quantity>1</quantity>
+                <price>2.00</price>
+                <size>medium</size>
+            </item>
+        </details>
+    </order>
+</orders>

@@ -1,0 +1,15 @@
+<!ELEMENT order (customer,date,total,details)>
+<!ATTLIST order id CDATA #REQUIRED>
+
+<!ELEMENT customer (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT total (#PCDATA)>
+
+<!ELEMENT details (item)*>
+<!ELEMENT item EMPTY>
+<!ATTLIST item
+    code CDATA #REQUIRED
+    qty CDATA #REQUIRED
+    price CDATA #IMPLIED
+    size CDATA #IMPLIED
+  >

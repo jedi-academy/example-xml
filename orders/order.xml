@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order id="12345">
+    <customer>George</customer>
+    <date>20161109-1335PST</date>
+    <total>7.00</total>
+    <details>
+        <item code="burger" qty="1" price="5.00"/>
+        <item code="fries" qty="1" size="medium" price="2.00"/>
+    </details>
+</order>

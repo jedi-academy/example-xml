@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order id="12345"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="order.xsd">
+    <customer>George</customer>
+    <date>2016-11-09T13:35:00-08:00</date>
+    <total>7.00</total>
+    <details>
+        <item code="burger" qty="1" price="5.00"/>
+        <item code="fries" qty="1" size="medium" price="2.00"/>
+    </details>
+</order>
